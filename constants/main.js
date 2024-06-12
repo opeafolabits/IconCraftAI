@@ -56,6 +56,7 @@ export const iconStyles = [
   // { name: "cartoonish", image: cartoonish },
   // { name: "aesthetic", image: aesthetic },
   { name: "steampunk", image: steampunk },
+  {name: "test", image: ""}
   // { name: "grunge", image: grunge },
   // { name: "line-art", image: lineArt },
   // { name: "doodle", image: doodle },
